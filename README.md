@@ -1,16 +1,11 @@
-# lasershow_custompaint
+# Laser Custom Paint
 
-A new Flutter project.
+This is a demo app that uses the CustomPaint widget to create laser-like lines with animation.
 
-## Getting Started
+## Here is  a Demo
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Use
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone the repository
+- Open terminal in the project directory and run `flutter run`
